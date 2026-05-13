@@ -1,0 +1,33 @@
+[project]
+name = "allen-lab-rml"
+version = "0.1.0"
+description = "Residue Manifold Learning + CGCS tools for Trisomy 21 (Allen Lab collaboration)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter",
+    "ipywidgets",
+    "scikit-learn",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["grok*"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}

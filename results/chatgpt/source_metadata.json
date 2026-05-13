@@ -1,0 +1,39 @@
+{
+  "generator_track": "chatgpt",
+  "created_utc": "2026-05-13T18:55:28.116150+00:00",
+  "source_record": {
+    "title": "Example Allen Lab Source for Report-Tool Development",
+    "authors": [
+      "Allen Lab / Allen Institute source placeholder"
+    ],
+    "source_type": "paper_or_dataset_note",
+    "institution": "Allen Institute",
+    "abstract_or_summary": "This placeholder source represents an Allen Lab research output used to test context-aware metadata extraction for lab report generation. It includes terms such as cell types, brain atlas, single-cell sequencing, open science, dataset provenance, methods traceability, and visualization-ready summaries.",
+    "keywords": [
+      "cell types",
+      "brain atlas",
+      "single-cell sequencing",
+      "open science",
+      "dataset provenance",
+      "methods traceability",
+      "visualization-ready summaries"
+    ],
+    "source_url": "",
+    "notes": [
+      "Replace this placeholder with a specific paper, dataset page, or methods source."
+    ]
+  },
+  "context_matches": {
+    "matched_focus_areas": [
+      "cell types"
+    ],
+    "matched_equipment_or_platforms": [
+      "single-cell sequencing"
+    ],
+    "matched_report_priorities": [
+      "dataset provenance",
+      "methods traceability",
+      "visualization-ready summaries"
+    ]
+  }
+}

@@ -1,3 +1,4 @@
+https://colab.research.google.com/github/thinkthoughts/allen-lab-report-tool/blob/main/notebooks/chatgpt/03_context_aware_report_sections.ipynb
 
 `notebooks/chatgpt/README.md`
 

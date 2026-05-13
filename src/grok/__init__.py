@@ -29,19 +29,16 @@ from .visualization import (
 
 # Convenient combined imports
 __all__ = [
-    # CGCS
     "calculate_cgcs",
     "calculate_cgcs_trisomy",
-    
-    # Encoding
     "encode_base",
     "encode_dna_to_residues",
-    
-    # Trisomy specific
     "trisomy_cgcs_score",
     "simulate_intervention_recovery",
-    
-    # Visualization
     "plot_cgcs_vs_noise",
     "plot_dosage_impact",
 ]
+
+# Make version easily accessible
+__version__ = "0.1.0"
+__author__ = "Your Name"
